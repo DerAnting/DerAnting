@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @DerAnting
-- 🌱 I'm a hobby developer working with Prgramming languages like: C# and Javascript.
+- 🌱 I'm a hobby developer working with languages like: Python, Java
